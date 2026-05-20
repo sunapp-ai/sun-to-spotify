@@ -169,6 +169,7 @@ Read `error.code`, not only HTTP status (409 covers multiple cases).
 ## Links
 
 - [Sun](https://sunapp.ai)
+- [Genesis Prompt Format Arena benchmark](https://sunapp.ai/blog/genesis-prompt-format-arena)
 - [sun-cli on PyPI](https://pypi.org/project/sun-cli/)
 - [Claude Code](https://claude.com/claude-code)
 - [Save to Spotify](https://github.com/spotify/save-to-spotify)
